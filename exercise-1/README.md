@@ -14,3 +14,11 @@ In this exercise you'll practice using git to clone and edit repositories, as wi
 6. Using your terminal, add and commit the changes you've made to your repository
 
 7. Push changes up to GitHub, and view them in your web browser. Make sure you are looking at the repository under _your_ account!
+
+
+**What I had for Breakfast**
+1. Oatmeal
+2. Berries
+3. Milk
+4. Sugar
+5. Coffee 
